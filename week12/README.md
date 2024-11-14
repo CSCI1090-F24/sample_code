@@ -1,0 +1,1 @@
+Here's the completed notebook for [Class 12.2: Logistic Regression, Cross Validation, and Evaluation](https://colab.research.google.com/drive/1k2qftddD8Mbn0rZ62yybv_1zLet65RUP?usp=sharing).
